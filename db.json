@@ -1,4 +1,38 @@
 {
+  "category" : {
+    "data": [
+      {
+          "created_at": 1644401287989,
+          "updated_at": 1644403664048,
+          "name": "Progres belajar",
+          "id_category": 1
+      }, 
+      {
+          "created_at": 1644401287989,
+          "updated_at": 1644403664048,
+          "name": "Jadwal",
+          "id_category": 2
+      },
+      {
+          "created_at": 1644401287989,
+          "updated_at": 1644403664048,
+          "name": "Pembelian",
+          "id_category": 3
+      },
+      {
+          "created_at": 1644401287989,
+          "updated_at": 1644403664048,
+          "name": "Promo",
+          "id_category": 4
+      },
+      {
+          "created_at": 1644401287989,
+          "updated_at": 1644403664048,
+          "name": "Lainnya",
+          "id_category": 5
+      }
+    ]
+  }
   "notification": {
     "data": [
       {
