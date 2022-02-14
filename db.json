@@ -37,7 +37,7 @@
     "data": [
       {
         "is_read": false,
-        "created_at": 1644808901766,
+        "created_at": 1644813772871,
         "updated_at": 1644405664261,
         "id_user": 601371,
         "id_category": 1,
@@ -48,7 +48,7 @@
         "id_notification": 8
       }, {
         "is_read": true,
-        "created_at": 1644808901766,
+        "created_at": 1644426000000,
         "updated_at": 1644405664261,
         "id_user": 602101,
         "id_category": 2,
