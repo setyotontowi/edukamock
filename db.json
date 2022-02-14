@@ -96,18 +96,6 @@
         "image_url": "",
         "link": "https://www.edukasystem.com/eduka-pay",
         "id_notification": 9
-    }, 
-    {
-        "is_read": true,
-        "created_at": 1644808880325,
-        "updated_at": 1644405664261,
-        "id_user": 602101,
-        "id_category": 3,
-        "title": "Ada promo baru Nih!",
-        "description": "Coba cek di halaman eduka pay ya. Di bagian tertentu ada yang namanya halaman promo atau gimana",
-        "image_url": "https://picsum.photos/200/100",
-        "link": "https://www.edukasystem.com",
-        "id_notification": 10
     }
     ]
   }
