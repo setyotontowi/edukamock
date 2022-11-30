@@ -75,7 +75,7 @@
   "buwhan": {
     "data": [
       {
-        "is_read": true,
+        "is_read": false,
         "created_at": 1644808880325,
         "updated_at": 1644405664261,
         "id_user": 601371,
