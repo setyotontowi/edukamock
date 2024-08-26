@@ -1,7 +1,9 @@
 {
-  "status" : 200,
-  "data": {
-      "nama": "Tontowi",
-      "usia": 27
-  }
+  "started": {
+    "status" : 200,
+    "data": {
+        "nama": "Tontowi",
+        "usia": 27
+    }
+  } 
 }
