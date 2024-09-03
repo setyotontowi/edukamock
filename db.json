@@ -5,5 +5,17 @@
         "nama": "Tontowi",
         "usia": 27
     }
-  } 
+  },
+  "license": {
+    "metaData": {
+      "status": 200,
+      "message":""
+    },
+    "response": {
+      "status": {
+        "warning":"",
+        "error":""
+      }
+    }
+  }
 }
